@@ -1,0 +1,13 @@
+SupplierID,SupplierName,Region,ContractLeadTimeDays,TargetOnTimeRate
+S001,Supplier 01,Central,9,0.894
+S002,Supplier 02,Central,8,0.971
+S003,Supplier 03,South,17,0.897
+S004,Supplier 04,Central,4,0.9
+S005,Supplier 05,North,14,0.946
+S006,Supplier 06,East,14,0.976
+S007,Supplier 07,East,9,0.902
+S008,Supplier 08,South,7,0.914
+S009,Supplier 09,North,3,0.966
+S010,Supplier 10,West,17,0.987
+S011,Supplier 11,South,18,0.935
+S012,Supplier 12,West,6,0.896

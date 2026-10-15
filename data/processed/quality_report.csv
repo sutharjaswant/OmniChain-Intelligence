@@ -1,0 +1,18 @@
+Check,Result,Details
+orders is not empty,PASS,1800 rows
+products is not empty,PASS,60 rows
+customers is not empty,PASS,180 rows
+inventory is not empty,PASS,60 rows
+suppliers is not empty,PASS,12 rows
+supplier_deliveries is not empty,PASS,480 rows
+products.ProductID is unique,PASS,0 duplicate keys
+customers.CustomerID is unique,PASS,0 duplicate keys
+suppliers.SupplierID is unique,PASS,0 duplicate keys
+inventory.ProductID is unique,PASS,0 duplicate keys
+Order product references are valid,PASS,0 unknown product references
+Order customer references are valid,PASS,0 unknown customer references
+Net revenue formula,PASS,0 mismatches
+Gross profit formula,PASS,0 mismatches
+Inventory product references are valid,PASS,0 unknown products
+Inventory stock is non-negative,PASS,0 negative stock values
+Delivery supplier references are valid,PASS,0 unknown suppliers

@@ -1,0 +1,61 @@
+ProductID,ProductName,Category,UnitCost,SupplierID,ListPrice
+P0001,Product 001,Electronics,135.08,S012,239.86
+P0002,Product 002,Outdoor,174.28,S002,319.78
+P0003,Product 003,Outdoor,61.35,S006,81.35
+P0004,Product 004,Office Supplies,69.2,S009,112.4
+P0005,Product 005,Office Supplies,86.64,S006,111.54
+P0006,Product 006,Personal Care,37.35,S006,63.29
+P0007,Product 007,Electronics,26.87,S002,41.56
+P0008,Product 008,Outdoor,87.72,S005,121.06
+P0009,Product 009,Home & Kitchen,43.94,S003,59.01
+P0010,Product 010,Electronics,121.89,S004,216.83
+P0011,Product 011,Office Supplies,80.94,S009,113.6
+P0012,Product 012,Personal Care,150.55,S008,313.54
+P0013,Product 013,Outdoor,127.25,S008,225.61
+P0014,Product 014,Outdoor,58.98,S005,92.14
+P0015,Product 015,Outdoor,150.48,S012,268.13
+P0016,Product 016,Outdoor,145.64,S002,185.04
+P0017,Product 017,Office Supplies,72.2,S005,152.54
+P0018,Product 018,Electronics,54.75,S002,92.2
+P0019,Product 019,Personal Care,124.12,S005,242.59
+P0020,Product 020,Office Supplies,28.6,S012,37.88
+P0021,Product 021,Office Supplies,39.18,S005,66.14
+P0022,Product 022,Home & Kitchen,5.3,S011,8.97
+P0023,Product 023,Electronics,142.5,S006,298.4
+P0024,Product 024,Personal Care,121.01,S009,213.53
+P0025,Product 025,Outdoor,128.11,S006,214.73
+P0026,Product 026,Outdoor,141.41,S004,210.74
+P0027,Product 027,Office Supplies,84.77,S010,131.26
+P0028,Product 028,Personal Care,104.1,S012,178.91
+P0029,Product 029,Office Supplies,28.6,S004,47.05
+P0030,Product 030,Office Supplies,24.16,S010,30.67
+P0031,Product 031,Office Supplies,121.64,S004,242.51
+P0032,Product 032,Home & Kitchen,86.91,S009,178.73
+P0033,Product 033,Electronics,103.48,S010,142.41
+P0034,Product 034,Office Supplies,138.64,S006,242.43
+P0035,Product 035,Personal Care,115.71,S009,155.94
+P0036,Product 036,Electronics,101.43,S004,188.15
+P0037,Product 037,Personal Care,102.42,S001,153.95
+P0038,Product 038,Personal Care,57.5,S002,106.0
+P0039,Product 039,Home & Kitchen,9.42,S006,17.94
+P0040,Product 040,Outdoor,80.86,S011,157.01
+P0041,Product 041,Electronics,41.77,S002,56.26
+P0042,Product 042,Outdoor,75.9,S006,157.45
+P0043,Product 043,Outdoor,154.2,S009,224.7
+P0044,Product 044,Home & Kitchen,45.17,S003,57.98
+P0045,Product 045,Electronics,14.26,S009,24.95
+P0046,Product 046,Personal Care,53.52,S004,84.77
+P0047,Product 047,Office Supplies,55.67,S010,111.16
+P0048,Product 048,Personal Care,120.5,S007,238.28
+P0049,Product 049,Outdoor,102.04,S007,156.67
+P0050,Product 050,Outdoor,141.97,S003,299.22
+P0051,Product 051,Outdoor,120.92,S006,182.81
+P0052,Product 052,Electronics,75.52,S011,129.41
+P0053,Product 053,Home & Kitchen,147.27,S001,218.01
+P0054,Product 054,Office Supplies,33.39,S010,69.87
+P0055,Product 055,Office Supplies,8.0,S006,11.19
+P0056,Product 056,Electronics,19.85,S009,25.61
+P0057,Product 057,Office Supplies,131.14,S008,215.28
+P0058,Product 058,Electronics,85.29,S006,182.79
+P0059,Product 059,Outdoor,32.38,S004,66.46
+P0060,Product 060,Outdoor,92.18,S008,177.33
