@@ -25,6 +25,17 @@ OmniChain Intelligence is a retail analytics project designed to turn raw busine
 - **Power BI:** Interactive dashboards and visualizations
 - **Git & GitHub:** Version control and project hosting
 
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview Dashboard](executive-overview.png)
+
+### 2. Supplier Performance Analysis
+![Supplier Performance Dashboard](supplier-performance.png)
+
+### 3. Inventory & Product Insights
+![Inventory Insights Dashboard](inventory-insights.png)
+
 ## Dashboard Pages
 
 ### 1. Executive Overview
