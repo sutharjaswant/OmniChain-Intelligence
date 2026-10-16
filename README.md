@@ -134,3 +134,13 @@ OmniChain Intelligence is an educational portfolio project. All business data is
 ---
 
 **Built with Python, SQL, SQLite, and Power BI.**
+
+## Author
+
+**Jaswant Suthar**
+
+Aspiring Data Analyst | Python | SQL | Power BI
+
+GitHub: [sutharjaswant](https://github.com/sutharjaswant)
+---
+
